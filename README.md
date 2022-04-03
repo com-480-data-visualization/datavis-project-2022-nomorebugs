@@ -2,9 +2,9 @@
 
 | Student's name | SCIPER |
 | -------------- | ------ |
-|  |  |
-|  |  |
-|  |  |
+| Yanni Zhang | 336558 |
+| Xiaoyu Chen | 337263 |
+| Sixiao Xu   | 338094 |
 
 [Milestone 1](#milestone-1-friday-3rd-april-5pm) • Milestone 2 • Milestone 3
 # Milestone 1 (Friday 3rd April, 5pm)
