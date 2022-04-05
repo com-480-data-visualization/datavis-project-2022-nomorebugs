@@ -9,7 +9,57 @@
 [Milestone 1](#milestone-1-friday-3rd-april-5pm) • Milestone 2 • Milestone 3
 # Milestone 1 (Friday 3rd April, 5pm)
 ## Dataset
+
+We found 4 datasets on kaggle about different aspects related to the MBTI test.
+
+#### How the MBTI types are distributed around the world: [MBTI-TYPES Data](https://www.kaggle.com/datasets/yamaerenay/mbtitypes-full)
+
+This dataset contains 2 files:
+* *countries.csv*: compares distribution of MBTI-Types in 158 countries
+* *types.csv*: contains following information:
+  * Type: type (as index)
+  * Description: a to-the-point description of type
+  * Nickname: nickname associated with personality
+  * Definition: a formal definition of type
+  * Celebrities: celebrities of that type
+  * E/I/T/F/S/N/J/P: abbreviation of features like "extroverted", "sensing", "judgmental" etc.
+  * and other features like strengths and weaknesses, romantic relationships…
+
+We are only interested in *countries.csv*.
+
+####Posts by people of different MBTI types: [(MBTI) Myers-Briggs Personality Type Dataset](https://www.kaggle.com/datasets/datasnaek/mbti-type)
+
+This dataset contains over 8600 rows of data, on each row is a person’s:
+
+- Type (This persons 4 letter MBTI code/type)
+- A section of each of the last 50 things they have posted (Each entry separated by "|||" (3 pipe characters))
+
+####MBTI types of movie characters: [Movie Character MBTI Dataset](https://www.kaggle.com/datasets/subinium/movie-character-mbti-dataset)
+
+This dataset contains over 18700 rows of data, on each row is a character’s:
+
+* stat: number of people who voted/commented for this character, as his type is determined by the votes of users on the forum.
+* mbti: 4 letter MBTI code/type
+* enneagram: the enneagram  type, which is another typology that divides humans into nine interrelated (non-psychological) personalities.
+* role: name of the character
+* movie: name of the movie in which this character was portrayed
+* img_url: url of an image of the character
+
+We mainly focus on `mbti`, `role` and `movie`.
+
+####MBTI types and birthdays: [MBTI and Birthdays](https://www.kaggle.com/datasets/dakotagravitt/mbti-and-birthdays)
+
+This dataset contains about 300 rows of data, on each row is a person’s:
+
+* timestamp: timestamp when this record was created
+* birthday
+* Time of Birth (not required)
+* MBTI type
+
+We are not interested in the time of birth, so we simply drop it.
+
 ## Problematic
 ## Exploratory Data Analysis
 Please check out [Jupyter Notebook](https://github.com/com-480-data-visualization/datavis-project-2022-nomorebugs/blob/main/data/DataAnalysis.ipynb) for analysis. 
+
 ## Related work
