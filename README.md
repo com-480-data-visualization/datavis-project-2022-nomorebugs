@@ -7,6 +7,7 @@
 | Sixiao Xu   | 338094 |
 
 [Milestone 1](#milestone-1-friday-3rd-april-5pm) • Milestone 2 • Milestone 3
+
 # Milestone 1 (Friday 3rd April, 5pm)
 ## Dataset
 
@@ -27,14 +28,14 @@ This dataset contains 2 files:
 
 We are only interested in *countries.csv*.
 
-####Posts by people of different MBTI types: [(MBTI) Myers-Briggs Personality Type Dataset](https://www.kaggle.com/datasets/datasnaek/mbti-type)
+#### Posts by people of different MBTI types: [(MBTI) Myers-Briggs Personality Type Dataset](https://www.kaggle.com/datasets/datasnaek/mbti-type)
 
 This dataset contains over 8600 rows of data, on each row is a person’s:
 
 - Type (This persons 4 letter MBTI code/type)
 - A section of each of the last 50 things they have posted (Each entry separated by "|||" (3 pipe characters))
 
-####MBTI types of movie characters: [Movie Character MBTI Dataset](https://www.kaggle.com/datasets/subinium/movie-character-mbti-dataset)
+#### MBTI types of movie characters: [Movie Character MBTI Dataset](https://www.kaggle.com/datasets/subinium/movie-character-mbti-dataset)
 
 This dataset contains over 18700 rows of data, on each row is a character’s:
 
