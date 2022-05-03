@@ -90,4 +90,4 @@ It should be noted that we have never used these datasets in any of our previous
 
 # Milestone 2 (Friday 6th May, 5pm)
 
-[webpage](https://com-480-data-visualization.github.io/datavis-project-2022-nomorebugs/)
+[prototype](https://com-480-data-visualization.github.io/datavis-project-2022-nomorebugs/)
