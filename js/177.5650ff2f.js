@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkdataviz"]=self["webpackChunkdataviz"]||[]).push([[177],{177:function(t,n,e){e.r(n),e.d(n,{default:function(){return s}});var u=function(){var t=this,n=t.$createElement,e=t._self._c||n;return e("h1",[t._v("Introduction about 16 personalities.")])},a=[],l=e(1001),r={},i=(0,l.Z)(r,u,a,!1,null,null,null),s=i.exports}}]);
-//# sourceMappingURL=177.5650ff2f.js.map
