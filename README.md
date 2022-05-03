@@ -6,7 +6,7 @@
 | Xiaoyu Chen    | 337263 |
 | Sixiao Xu      | 338094 |
 
-[Milestone 1](https://github.com/com-480-data-visualization/datavis-project-2022-nomorebugs/blob/69fb36263c41bef446bb94e0a5878fcf56f8d058/README.md#milestone-1-friday-3rd-april-5pm) • [Milestone 2](https://github.com/com-480-data-visualization/datavis-project-2022-nomorebugs/blob/69fb36263c41bef446bb94e0a5878fcf56f8d058/README.md#milestone-2-friday-6th-may-5pm) • Milestone 3
+[Milestone 1](#milestone-1-friday-3rd-april-5pm) • [Milestone 2](#milestone-2-friday-6th-may-5pm) • Milestone 3
 
 # Milestone 1 (Friday 3rd April, 5pm)
 
