@@ -89,6 +89,7 @@ We also searched on internet and found that there are many commercial MBTI test 
 It should be noted that we have never used these datasets in any of our previous works.
 
 # Milestone 2 (Friday 6th May, 5pm)
+[pdf](./report/Milestone2.pdf)
 
 ## Link to our website
 Please check [prototype](https://com-480-data-visualization.github.io/datavis-project-2022-nomorebugs/).
