@@ -90,9 +90,30 @@ It should be noted that we have never used these datasets in any of our previous
 
 # Milestone 2 (Friday 6th May, 5pm)
 
-## Link to our website: [prototype](https://com-480-data-visualization.github.io/datavis-project-2022-nomorebugs/)
+## Link to our website
+Please check [prototype](https://com-480-data-visualization.github.io/datavis-project-2022-nomorebugs/).
 
 ## Sketches of the visualizations
+
+Our website has two main pages: one with a general introduction, and the other with statistics for each of the 16 personality types.
+* Introduction: A description of the MBTI personalities, and a general introduction to the statistics done on this website.
+* Type: the user selects a certain personality and the corresponding statistical chart is displayed on the page. For fun, they can also discover movie characters with the same personality type.
+  
+## Tools and lectures we need
+### Tools for visualization
+
+This project consists of two main parts: drawing charts and web design. We used the following two main tools to accomplish this.
+* Plotly: plotly.py is an interactive, open-source, and browser-based graphing library for Python. It ships with over 30 chart types, including scientific charts, 3D graphs, statistical charts, SVG maps, financial charts, and more.
+* Vue.js: An open-source model–view–viewmodel front end JavaScript framework for building user interfaces and single-page applications. To make it more elegant, we also used Element UI and AOS to unify the UI style and add lovely animation effects.
+  * ELement UI: A component library based on Vue 2.0 for developers to use. It provides efficient and uniform UI components to brighten up the web style.
+  * AOS: Animate On Scroll Library.
+
+### Lectures we might need
+* Javascript: We will use javascript to complete the code logic in the website.
+* Interaction: User interaction is important, and we will include elements that can be interacted with both on the page and in the chart.
+* Perception colors: Since we have many images, it is very important to unify the tone of each image.
+* Designing viz: We actually followed the advice from this lecture to design the skeleton.
+* Map: A large part of the site is a map showing the distribution of various personality types in the world.
 
 ## Break down of the goal
 
@@ -102,16 +123,22 @@ The main target of our website is to help people to acquaint with MBTI 16 person
 This visualization is designed to attract users to select the personality they are interested in and explore the basic characteristics of each type. There will be four groups of bar: Introversion (I) & Extraversion (E), Sensing (S) & Intuition (N),Feeling (F) & Thinking (T), Perceiving (P) & Judging (J). Users can therefore select between 16 MBTI personalities.
 
 ### Type figure
-This part will change according to the chosen type. A firgure that shows the characteristic of this type of person will appear. This may help users better match people of this personality with their friend in real life.
+This part will change according to the chosen type. A figure that shows the characteristic of this type of person will appear. This may help users better match people of this personality with their friend in real life.
 
 ### Type description
 This part will change according to the chosen type. A description of the characteristic of this type of person will appear.
 
 ### World distribution of the type
-This visualisation aims to help users to know the distribution of specific type in the world. The dataset used for this visualization is How the MBTI types are distributed around the world: [MBTI-TYPES Data](https://www.kaggle.com/datasets/yamaerenay/mbtitypes-full). Users can move their mouse to see the percentage of this kind of personality in different countries.
+This visualization aims to help users to know the distribution of specific type in the world. The dataset used for this visualization is How the MBTI types are distributed around the world: [MBTI-TYPES Data](https://www.kaggle.com/datasets/yamaerenay/mbtitypes-full). Users can move their mouse to see the percentage of this kind of personality in different countries.
 
 ### Birthday distribution of the type
 This part aims to give users intuition about the birthday distribution of this type. The dataset used for this visualization is MBTI types and birthdays: [MBTI and Birthdays](https://www.kaggle.com/datasets/dakotagravitt/mbti-and-birthdays).
 
 ### Cloud of frequently used worlds of people with this type
-People with different personalities may have different commonly used words, and the length of posts on Twitter may also vary according to personality. We belive a word cloud is an intuitive visualization to show these differences vividly. The dataset used for this visualization is Posts by people of different MBTI types: [(MBTI) Myers-Briggs Personality Type Dataset](https://www.kaggle.com/datasets/datasnaek/mbti-type). 
+People with different personalities may have different commonly used words, and the length of posts on Twitter may also vary according to personality. We believe a word cloud is an intuitive visualization to show these differences vividly. The dataset used for this visualization is Posts by people of different MBTI types: [(MBTI) Myers-Briggs Personality Type Dataset](https://www.kaggle.com/datasets/datasnaek/mbti-type). 
+
+## Extra ideas
+
+We believe that the above visualizations are sufficient to help users acquaint with MBTI, but we think a match between personalities and famous movie characters may help users understand MBTI in a more interesting and vivid way.
+
+We can use MBTI types of movie characters: [Movie Character MBTI Dataset](https://www.kaggle.com/datasets/subinium/movie-character-mbti-dataset) to create another page of Harry Potter Universe MBTI or Marvel Universe MBTI, so that users can click on their favorite character, and know his/her MBTI personality and frequently used words, and things alike.
