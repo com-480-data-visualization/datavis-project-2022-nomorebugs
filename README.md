@@ -90,4 +90,28 @@ It should be noted that we have never used these datasets in any of our previous
 
 # Milestone 2 (Friday 6th May, 5pm)
 
-[prototype](https://com-480-data-visualization.github.io/datavis-project-2022-nomorebugs/)
+## Link to our website: [prototype](https://com-480-data-visualization.github.io/datavis-project-2022-nomorebugs/)
+
+## Sketches of the visualizations
+
+## Break down of the goal
+
+The main target of our website is to help people to acquaint with MBTI 16 personalities from different dimensions and know themselves better. First, we will present an overall introduction about MBTI. Then there will be a bunch of selection bars that users can select between different personalities. Given different personality that the user chooses, five parts on the website will change accordingly. Those parts are figure of the type, description of the type, world distribution of the type, birthday distribution of the type, and a cloud of frequently used words of people with this type.
+
+### Selection bars
+This visualization is designed to attract users to select the personality they are interested in and explore the basic characteristics of each type. There will be four groups of bar: Introversion (I) & Extraversion (E), Sensing (S) & Intuition (N),Feeling (F) & Thinking (T), Perceiving (P) & Judging (J). Users can therefore select between 16 MBTI personalities.
+
+### Type figure
+This part will change according to the chosen type. A firgure that shows the characteristic of this type of person will appear. This may help users better match people of this personality with their friend in real life.
+
+### Type description
+This part will change according to the chosen type. A description of the characteristic of this type of person will appear.
+
+### World distribution of the type
+This visualisation aims to help users to know the distribution of specific type in the world. The dataset used for this visualization is How the MBTI types are distributed around the world: [MBTI-TYPES Data](https://www.kaggle.com/datasets/yamaerenay/mbtitypes-full). Users can move their mouse to see the percentage of this kind of personality in different countries.
+
+### Birthday distribution of the type
+This part aims to give users intuition about the birthday distribution of this type. The dataset used for this visualization is MBTI types and birthdays: [MBTI and Birthdays](https://www.kaggle.com/datasets/dakotagravitt/mbti-and-birthdays).
+
+### Cloud of frequently used worlds of people with this type
+People with different personalities may have different commonly used words, and the length of posts on Twitter may also vary according to personality. We belive a word cloud is an intuitive visualization to show these differences vividly. The dataset used for this visualization is Posts by people of different MBTI types: [(MBTI) Myers-Briggs Personality Type Dataset](https://www.kaggle.com/datasets/datasnaek/mbti-type). 
