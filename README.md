@@ -96,14 +96,14 @@ Please check [prototype](https://com-480-data-visualization.github.io/datavis-pr
 ## Sketches of the visualizations
 
 Our website has two main pages: one with a general introduction, and the other with statistics for each of the 16 personality types.
-* Introduction: A description of the MBTI personalities, and a general introduction to the statistics done on this website.
-* Type: the user selects a certain personality and the corresponding statistical chart is displayed on the page. For fun, they can also discover movie characters with the same personality type.
+* Introduction: A description of the MBTI personalities, and a overall introduction to the statistics done on this website.
+* Type: The user selects a certain personality and the corresponding statistical chart is displayed on the page. For fun, they can also discover movie characters with the same personality.
   
 ## Tools and lectures we need
 ### Tools for visualization
 
 This project consists of two main parts: drawing charts and web design. We used the following two main tools to accomplish this.
-* Plotly: plotly.py is an interactive, open-source, and browser-based graphing library for Python. It ships with over 30 chart types, including scientific charts, 3D graphs, statistical charts, SVG maps, financial charts, and more.
+* Plotly: An interactive, open-source, and browser-based graphing library for Python. It ships with over 30 chart types, including scientific charts, 3D graphs, statistical charts, SVG maps, financial charts, and more.
 * Vue.js: An open-source model–view–viewmodel front end JavaScript framework for building user interfaces and single-page applications. To make it more elegant, we also used Element UI and AOS to unify the UI style and add lovely animation effects.
   * ELement UI: A component library based on Vue 2.0 for developers to use. It provides efficient and uniform UI components to brighten up the web style.
   * AOS: Animate On Scroll Library.
