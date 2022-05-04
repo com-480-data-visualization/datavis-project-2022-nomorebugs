@@ -105,7 +105,7 @@ Our website has two main pages: one with a general introduction, and the other w
 This project consists of two main parts: drawing charts and web design. We used the following two main tools to accomplish this.
 * Plotly: An interactive, open-source, and browser-based graphing library for Python. It ships with over 30 chart types, including scientific charts, 3D graphs, statistical charts, SVG maps, financial charts, and more.
 * Vue.js: An open-source model–view–viewmodel front end JavaScript framework for building user interfaces and single-page applications. To make it more elegant, we also used Element UI and AOS to unify the UI style and add lovely animation effects.
-  * ELement UI: A component library based on Vue 2.0 for developers to use. It provides efficient and uniform UI components to brighten up the web style.
+  * Element UI: A component library based on Vue 2.0 for developers to use. It provides efficient and uniform UI components to brighten up the web style.
   * AOS: Animate On Scroll Library.
 
 ### Lectures we might need
