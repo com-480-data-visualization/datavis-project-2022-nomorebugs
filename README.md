@@ -129,10 +129,10 @@ This part will change according to the chosen type. A figure that shows the char
 This part will change according to the chosen type. A description of the characteristic of this type of person will appear.
 
 ### World distribution of the type
-This visualization aims to help users to know the distribution of specific type in the world. The dataset used for this visualization is How the MBTI types are distributed around the world: [MBTI-TYPES Data](https://www.kaggle.com/datasets/yamaerenay/mbtitypes-full). Users can move their mouse to see the percentage of this kind of personality in different countries.
+This visualization aims to help users to know the distribution of specific type in the world. The dataset used for this visualization is How the MBTI types are distributed around the world: [MBTI-TYPES Data](https://www.kaggle.com/datasets/yamaerenay/mbtitypes-full). Users can move their mouse to see the percentage of this kind of personality in different countries.  We may also present some data analysis under the visualization: e.g. "Wow! You are highly likely to find many INTJ friends in Switzerland :)".
 
 ### Birthday distribution of the type
-This part aims to give users intuition about the birthday distribution of this type. The dataset used for this visualization is MBTI types and birthdays: [MBTI and Birthdays](https://www.kaggle.com/datasets/dakotagravitt/mbti-and-birthdays).
+This part aims to give users intuition about the birthday distribution of this type. The dataset used for this visualization is MBTI types and birthdays: [MBTI and Birthdays](https://www.kaggle.com/datasets/dakotagravitt/mbti-and-birthdays). We may also present some data analysis under the visualization: e.g. "Wow! Many of your INTJ friends were born in September :)".
 
 ### Cloud of frequently used worlds of people with this type
 People with different personalities may have different commonly used words, and the length of posts on Twitter may also vary according to personality. We believe a word cloud is an intuitive visualization to show these differences vividly. The dataset used for this visualization is Posts by people of different MBTI types: [(MBTI) Myers-Briggs Personality Type Dataset](https://www.kaggle.com/datasets/datasnaek/mbti-type). 
