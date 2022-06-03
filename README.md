@@ -151,4 +151,4 @@ Link to process book: [pdf](./report/ProcessBook.pdf)
 Please check [website](https://com-480-data-visualization.github.io/datavis-project-2022-nomorebugs/)
 
 ## Link to our video
-Please check [here]
+Please check [here](https://youtu.be/XChnxmX0Siw)
