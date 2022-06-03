@@ -6,7 +6,7 @@
 | Xiaoyu Chen    | 337263 |
 | Sixiao Xu      | 338094 |
 
-[Milestone 1](#milestone-1-friday-3rd-april-5pm) • [Milestone 2](#milestone-2-friday-6th-may-5pm) • Milestone 3
+[Milestone 1](#milestone-1-friday-3rd-april-5pm) • [Milestone 2](#milestone-2-friday-6th-may-5pm) • [Milestone 3](#milestone-3-friday-3rd-june-5pm)
 
 # Milestone 1 (Friday 3rd April, 5pm)
 
@@ -143,3 +143,5 @@ People with different personalities may have different commonly used words, and 
 We believe that the above visualizations are sufficient to help users acquaint with MBTI, but we think a match between personalities and famous movie characters may help users understand MBTI in a more interesting and vivid way.
 
 We can use MBTI types of movie characters: [Movie Character MBTI Dataset](https://www.kaggle.com/datasets/subinium/movie-character-mbti-dataset) to create another page of Harry Potter Universe MBTI or Marvel Universe MBTI, so that users can click on their favorite character, and know his/her MBTI personality and frequently used words, and things alike.
+
+# Milestone 3 (Friday 3rd June, 5pm)
