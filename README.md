@@ -145,7 +145,10 @@ We believe that the above visualizations are sufficient to help users acquaint w
 We can use MBTI types of movie characters: [Movie Character MBTI Dataset](https://www.kaggle.com/datasets/subinium/movie-character-mbti-dataset) to create another page of Harry Potter Universe MBTI or Marvel Universe MBTI, so that users can click on their favorite character, and know his/her MBTI personality and frequently used words, and things alike.
 
 # Milestone 3 (Friday 3rd June, 5pm)
-[pdf](./report/ProcessBook.pdf)
+Link to process book: [pdf](./report/ProcessBook.pdf)
 
 ## Link to our website
 Please check [website](https://com-480-data-visualization.github.io/datavis-project-2022-nomorebugs/)
+
+## Link to our video
+Please check [here]
